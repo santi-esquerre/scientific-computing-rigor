@@ -1,0 +1,6 @@
+interface:
+  display_name: "Scientific Computing Rigor"
+  short_description: "Connect numerical methods to scientific evidence"
+  default_prompt: "Use $scientific-computing-rigor to assess the numerical contract, verification evidence, and scientific conclusions for this task."
+policy:
+  allow_implicit_invocation: true
